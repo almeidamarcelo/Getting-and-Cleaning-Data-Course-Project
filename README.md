@@ -1,7 +1,7 @@
 # Getting and Cleaning Data
 ## Course Project
 
-The file " rm.R " is an R script for the course project, it is fairly straightforward and has comments for ease of use.
+The file " run_analysis.R " is an R script for the course project, it is fairly straightforward and has comments for ease of use.
 
 In the first part of the script it is presented the code used to load additional packages needed in the execution of the code .
 
